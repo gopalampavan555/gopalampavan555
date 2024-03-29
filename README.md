@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Pavan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp> </h1>
 
 <h3 align="center">Driving Innovation Through Code: DevOps Engineer</h3>
-Glad to see you here!
+<h3></h3>Glad to see you here!</h3>
 
 Enthusiastic about continuous learning and innovation in the world of DevOps and cloud technologies. Skilled in CI/CD pipelines, containerization, infrastructure as code, and monitoring solutions. Eager to explore new tools and methodologies, collaborate on open-source projects, and contribute to cutting-edge advancements in software development and deployment practices.
 <img align="right" alt="Coding" width="400" src="https://github.com/gopalampavan555/Devops/blob/main/Online%20Coding%20classes%20for%20Kids%20_%20ZugZwang%20Academy.gif">
