@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi 👋, I'm Pavan</h1>
 <h3 align="center">Driving Innovation Through Code: DevOps Engineer</h3>
-<div align="center"><img src="https://github.com/gopalampavan555/Devops/blob/main/hand-drawn-devops-illustration_23-2149388660.jpg"></div>
+#<div align="center"><img src="https://github.com/gopalampavan555/Devops/blob/main/hand-drawn-devops-illustration_23-2149388660.jpg"></div>
 <img align="right" alt="Coding" width="400" src="https://github.com/gopalampavan555/Devops/blob/main/Online%20Coding%20classes%20for%20Kids%20_%20ZugZwang%20Academy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalampavan555&label=Profile%20views&color=0e75b6&style=flat" alt="gopalampavan555" /> </p>
 
