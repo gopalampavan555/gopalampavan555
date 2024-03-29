@@ -39,4 +39,4 @@ Enthusiastic about continuous learning and innovation in the world of DevOps and
 
 
 
-<img align="left" width="48.4%" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalampavan555&" alt="gopalampavan555"/>
+<img align="left" width="48.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalampavan555&" alt="gopalampavan555"/>
