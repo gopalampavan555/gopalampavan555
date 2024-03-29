@@ -34,6 +34,7 @@ Enthusiastic about continuous learning and innovation in the world of DevOps and
 
 
 <img alt="my status" src="https://github-readme-stats.vercel.app/api?username=gopalampavan555"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopalampavan555)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
