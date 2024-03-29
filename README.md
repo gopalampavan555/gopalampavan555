@@ -33,6 +33,8 @@ Enthusiastic about continuous learning and innovation in the world of DevOps and
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalampavan555&show_icons=true)](https://github.com/gopalampavan555/github-readme-stats)
 
+<img alt="my status" src="https://github-readme-stats.vercel.app/api?username=gopalampavan555"/>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalampavan555&" alt="gopalampavan555" /></p>
