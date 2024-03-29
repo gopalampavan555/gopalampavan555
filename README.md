@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm gopalampavan555 by Pavan</h1>
 <h3 align="center">Driving Innovation Through Code: DevOps Engineer | Pavan Kalyan</h3>
-<a href="https://i.pinimg.com/564x/02/4e/1e/024e1e0d21c6db1d76631890473e5b6e.jpg"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalampavan555&label=Profile%20views&color=0e75b6&style=flat" alt="gopalampavan555" /> </p>
 
