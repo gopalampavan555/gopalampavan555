@@ -31,7 +31,7 @@ Enthusiastic about continuous learning and innovation in the world of DevOps and
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalampavan555)](https://github.com/gopalampavan555/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopalampavan555&show_icons=true)](https://github.com/gopalampavan555/github-readme-stats)
 
 
 
