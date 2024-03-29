@@ -2,6 +2,8 @@
 
 <h3 align="center">Driving Innovation Through Code: DevOps Engineer</h3>
 Glad to see you here!
+
+Enthusiastic about continuous learning and innovation in the world of DevOps and cloud technologies. Skilled in CI/CD pipelines, containerization, infrastructure as code, and monitoring solutions. Eager to explore new tools and methodologies, collaborate on open-source projects, and contribute to cutting-edge advancements in software development and deployment practices.
 <img align="right" alt="Coding" width="400" src="https://github.com/gopalampavan555/Devops/blob/main/Online%20Coding%20classes%20for%20Kids%20_%20ZugZwang%20Academy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopalampavan555&label=Profile%20views&color=0e75b6&style=flat" alt="gopalampavan555" /> </p>
 
