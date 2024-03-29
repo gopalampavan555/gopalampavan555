@@ -33,10 +33,10 @@ Enthusiastic about continuous learning and innovation in the world of DevOps and
 
 
 
-<img alt="my status" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=gopalampavan555"/>
+<img alt="my status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=gopalampavan555"/>
 
 
 
 
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalampavan555&" alt="gopalampavan555"/>
+<img align="left" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gopalampavan555&" alt="gopalampavan555"/>
