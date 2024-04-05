@@ -9,10 +9,6 @@ Enthusiastic about continuous learning and innovation in the world of DevOps and
 
 - 🔭 I’m currently working on **DevOps and AWS**
 
-- 🌱 I’m currently learning **AWS, Azure**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
 - 👨‍💻 All of my projects are available at [https://github.com/gopalampavan555/](https://github.com/gopalampavan555/)
 
 - 💬 Ask me about **DevOps and Cloud, Automation, Software Architec**
